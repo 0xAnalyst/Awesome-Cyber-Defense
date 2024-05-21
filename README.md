@@ -1,8 +1,7 @@
 # Awesome-Cyber-Defense
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome resources related to Cyber Defense Operations. Contributions are welcome!
-
+A curated list of awesome resources related to enhancing Cyber Defense capabilities . Contributions are welcome!
 ## Table of Contents
 
 - [Resources](#resources)
