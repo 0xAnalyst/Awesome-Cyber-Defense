@@ -14,17 +14,17 @@ A curated list of awesome resources related to enhancing Cyber Defense capabilit
 
 ## Resources
 
-### Category 1
+### Active Directory
 
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 
-### Category 2
+### Endpoint Security
 
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 
-### Category 3
+### Cloud Security
 
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 - **[Resource Name](https://example.com)** - Brief description of the resource.
