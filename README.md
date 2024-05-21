@@ -12,6 +12,7 @@ A curated list of awesome resources related to enhancing Cyber Defense capabilit
   - [Incident Response](#incident-response)
   - [Vulnerability Management](#vulnerability-management)
   - [Active Directory](#Active-Directory)
+  - [Email Security](#Active-Directory)
 - [Contributing](#contributing)
 - [License](#license)
 - [Code of Conduct](#code-of-conduct)
@@ -109,6 +110,7 @@ A curated list of awesome resources related to enhancing Cyber Defense capabilit
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 
 ### Active Directory
+### Email Security
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire
