@@ -14,7 +14,7 @@ A curated list of awesome resources related to enhancing Cyber Defense capabilit
 
 ## Resources
 
-- [Active Directory] 
+- [Resources](#resources)
 
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 - **[Resource Name](https://example.com)** - Brief description of the resource.
