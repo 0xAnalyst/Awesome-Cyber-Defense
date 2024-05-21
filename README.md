@@ -29,6 +29,20 @@ A curated list of awesome resources related to enhancing Cyber Defense capabilit
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 
+### Security Monitoring 
+
+- **[Resource Name](https://example.com)** - Brief description of the resource.
+- **[Resource Name](https://example.com)** - Brief description of the resource.
+
+### Incident Response
+
+- **[Resource Name](https://example.com)** - Brief description of the resource.
+- **[Resource Name](https://example.com)** - Brief description of the resource.
+
+### Vulnerability Management
+
+- **[Resource Name](https://example.com)** - Brief description of the resource.
+- **[Resource Name](https://example.com)** - Brief description of the resource.
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
