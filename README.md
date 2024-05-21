@@ -20,15 +20,15 @@ A curated list of awesome resources related to enhancing Cyber Defense capabilit
 
 ### Endpoint Security
 
-#### Antivirus and Anti-malware
+#### Windows
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 
-#### Host-based Firewalls
+#### Linux 
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 
-#### Device Control
+#### OSX
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 
