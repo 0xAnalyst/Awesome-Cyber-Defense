@@ -20,7 +20,9 @@ A curated list of awesome resources related to enhancing Cyber Defense capabilit
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 
 ### Endpoint Security
-
+  - [Category 1](#category-1)
+  - [Category 2](#category-2)
+  - [Category 3](#category-3)
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 
